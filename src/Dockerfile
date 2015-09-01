@@ -1,4 +1,4 @@
-FROM piotrminkina/alpine:3.2
+FROM piotrminkina/alpine-core:3.2
 MAINTAINER Piotr Minkina <projects[i.am.spamer]@piotrminkina.pl>
 
 
